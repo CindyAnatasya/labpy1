@@ -36,4 +36,3 @@ print (c,'bilangan terbesar =',c)
 SELESAI
 TERIMAKASIH
 
-Mohon maaf sebelumnya,sy minjam laptop banni karena laptop sy sedang di service pak. Jd di atas msh tersangkut file banni dan saya tidak tau cara menghilangkannya pak
